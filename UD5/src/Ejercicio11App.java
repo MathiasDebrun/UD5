@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Ejercicio11 {
+public class Ejercicio11App {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

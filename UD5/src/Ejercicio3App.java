@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Ejercicio3 {
+public class Ejercicio3App {
 
 	public static void main(String[] args) {
 		
